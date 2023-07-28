@@ -18,8 +18,6 @@
 
 - Started to write articles on [Medium](https://medium.com/@fkengne.mcdns)
 
-- 📄 Know about my [experiences](https://docs.google.com/document/d/1WJFHlAGC9K-pl2NTyAgFh1zHJKyO0dRv/edit?usp=sharing&ouid=117768372427539811172&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I am really open minded**
 
 <h3 align="left">Connect with me:</h3>
