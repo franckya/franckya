@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Building customs docker images for my students](https://hub.docker.com/repositories/yakengne)
 
-- 👨‍💻 All of my projects are available at [https://franckya.github.io/Yannick_Djomo/](https://franckya.github.io/Yannick_Djomo/)
-
 - 📝 I regularly write articles on [https://franckya.github.io/openNMS/](https://franckya.github.io/openNMS/)
 
 - 💬 Ask me about **Cloud Native Applications and Project Management**
