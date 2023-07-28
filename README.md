@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Cloud Native Applications and Project Management**
 
-- 📫 How to reach me **yakengne@gmail.com**
-
 - Started to write articles on [Medium](https://medium.com/@fkengne.mcdns)
 
 - ⚡ Fun fact **I am really open minded**
