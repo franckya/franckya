@@ -13,6 +13,7 @@
 - 💬 Ask me about **Cloud Native Applications and Project Management**
 
 - Started to write articles on [Medium](https://medium.com/@fkengne.mcdns)
+- Read my articles on [Cerebrix](https://cerebrix.org/author/fkengne/)
 
 - ⚡ Fun fact **I am really open minded**
 
