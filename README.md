@@ -14,6 +14,7 @@
 
 - Started to write articles on [Medium](https://medium.com/@fkengne.mcdns)
 - Read my articles on [Cerebrix](https://cerebrix.org/author/fkengne/)
+- Currently contributing to [OpenStrata](https://kengne.org/) project for PowerApps ALM
 
 - ⚡ Fun fact **I am really open minded**
 
